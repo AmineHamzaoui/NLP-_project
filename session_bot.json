@@ -1,0 +1,31 @@
+{
+    "session_bot_uuid" : 1, 
+    "users" : {
+        "user_id1" :  { 
+            "responses" : 
+            {
+                "message_id1":{
+                    "response_uuid"  : "response_uuid1", 
+                    "text" :  "hvbziebvuizbee", 
+                    "time" : ""
+                },
+                "message_id2":{
+                    "response_uuid"  : "response_uuid1", 
+                    "text" :  "hvbziebvuizbee",
+                    "time" : ""
+
+                },
+                "message_id3":{
+                    "response_uuid"  : "response_uuid1", 
+                    "text" :  "hvbziebvuizbee",
+                    "time" : ""
+                },
+                "message_id4":{
+                    "response_uuid"  : "response_uuid1", 
+                    "text" :  "hvbziebvuizbee",
+                    "time" : ""
+                }   
+            }
+        }
+    }   
+}

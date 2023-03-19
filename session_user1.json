@@ -1,0 +1,23 @@
+{
+    "session_id" :  "",
+    "creation_time" : "",
+    "messages" :{
+       "order1" :   
+        {
+            "message_id" :  "message_id1",  
+            "text":  "",
+            "order" :  1, 
+            "time" : ""  
+        },
+        "order2" :
+        {
+            "message_id" :  "message_id2",
+            "text":  "",  
+            "order" :  1,
+            "time" : ""  
+        }
+    }
+}
+
+
+
